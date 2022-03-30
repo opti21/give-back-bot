@@ -1,0 +1,16 @@
+{
+  "name": "give-back-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "opti21",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.0",
+    "google-spreadsheet": "^3.2.0",
+    "tmi.js": "^1.8.5"
+  }
+}
